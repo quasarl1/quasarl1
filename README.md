@@ -21,3 +21,4 @@ Swagger / OpenAPI
 
 **DevOps**
 Docker | Containerization
+![Snake animation](https://github.com/quasarl1/quasarl1/blob/main/dist/ocean.gif)
