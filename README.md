@@ -22,3 +22,4 @@ Swagger / OpenAPI
 
 **DevOps**
 Docker | Containerization
+https://img.shields.io/badge/build-passing-brightgreen?style=for-the-badge
