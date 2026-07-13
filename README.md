@@ -1,13 +1,24 @@
-## Hello everyone
+##  Hello everyone!
 
-  Stack: 
-.NET 9 >>
-  ASP.NET Core Web API -- EF-core >
- MediatR -- LINQ DI/services >
-  Database: PL/SQL | NpgSql >
-Middleware -- Generics(BaseResponse<T></T>, Generic Helpers) >
-  Extension methods -- Action Filters >
-CQRS -- SOLID -- KISS -- YAGNI >
-  JWT Bearner, Authorization >
-API Docs: Swagger >
-  Docker >>
+### 🛠️ Tech Stack & Skills
+
+**Framework & Core**
+.NET 9 | ASP.NET Core Web API | Entity Framework Core
+
+**Architecture & Patterns**
+CQRS | MediatR | SOLID | KISS | YAGNI
+
+**Data & Database**
+LINQ | PostgreSQL (Npgsql) | PL/SQL
+
+**⚙️ Infrastructure & Security**
+JWT Bearer Authentication | Middleware | Action Filters | Extension Methods
+
+**📦 Generics & Helpers**
+`BaseResponse<T>` | Generic Helpers
+
+**Documentation**
+Swagger / OpenAPI
+
+**DevOps**
+Docker | Containerization
