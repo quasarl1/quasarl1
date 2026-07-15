@@ -24,7 +24,9 @@ Docker | Containerization
 ![Snake animation](https://github.com/quasarl1/quasarl1/blob/main/dist/ocean.gif)
 
 
-**news** **:** 
+**news** :
+
+
 ![POST /create-score](images/post-create-success.png)
 
 ![GET /get](images/get-accounts-list.png)
