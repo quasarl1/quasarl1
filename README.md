@@ -27,9 +27,10 @@ Docker | Containerization
 **news** :
 
 
-![POST /create-score](Screenshot 2026-07-14 175133.png)
+![POST /create-score]([Screenshot 2026-07-14 175133.png](https://github.com/quasarl1/quasarl1/blob/1a9436d756f3cd22a71bbc400a44f4ebadcb7526/Screenshot%202026-07-14%20175133.png))
 
-![GET /get](Screenshot 2026-07-14 180451.png)
+![GET /get]([Screenshot 2026-07-14 180451.png](https://github.com/quasarl1/quasarl1/blob/1a9436d756f3cd22a71bbc400a44f4ebadcb7526/Screenshot%202026-07-14%20180451.png))
 
-![DELETE /delete](Screenshot 2026-07-14 180525.png)
+
+![DELETE /delete]([Screenshot 2026-07-14 180525.png](https://github.com/quasarl1/quasarl1/blob/1a9436d756f3cd22a71bbc400a44f4ebadcb7526/Screenshot%202026-07-14%20180525.png))
 
