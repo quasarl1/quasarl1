@@ -27,9 +27,9 @@ Docker | Containerization
 **news** :
 
 
-![POST /create-score](images/post-create-success.png)
+![POST /create-score](Screenshot 2026-07-14 175133.png)
 
-![GET /get](images/get-accounts-list.png)
+![GET /get](Screenshot 2026-07-14 180451.png)
 
-![DELETE /delete](images/delete-ok.png)
+![DELETE /delete](Screenshot 2026-07-14 180525.png)
 
