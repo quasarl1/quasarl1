@@ -1,7 +1,9 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=5F1448&background=FFFFFF00&center=true&width=435&lines=I'm+Quasar%2C+Backend+developer+.Net)](https://git.io/typing-svg)
 ### 🛠️ Tech Stack & Skills
+
 **Framework & Core**
+
 ![.Net](https://img.shields.io/badge/.NET-%235C2D91.svg?style=for-the-badge&logo=.net&logoColor=white) 
 
 `.NET 9` | `ASP.NET Core Web API` | `Entity Framework Core` |
@@ -17,8 +19,7 @@
     `PL/SQL` |
        `Redis` |
 
-### **Infrastructure & Security**
-![JWT](https://img.shields.io/badge/json%20web%20tokens-%23000000.svg?style=for-the-badge&logo=jsonwebtokens&logoColor=white) 
+### **Infrastructure & Security** ![JWT](https://img.shields.io/badge/json%20web%20tokens-%23000000.svg?style=for-the-badge&logo=jsonwebtokens&logoColor=white) 
 
 `JWT Bearer Authentication` |
 `Middleware` |
@@ -38,3 +39,5 @@
 ### **DevOps**
 `Docker` |
 `Containerization` |
+
+[![GitHub Streak](https://streak-stats.demolab.com/?user=quasarl1)](https://git.io/streak-stats)
