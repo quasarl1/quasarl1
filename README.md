@@ -10,10 +10,10 @@ CQRS | MediatR | SOLID | KISS | YAGNI
 **Data & Database**
 LINQ | PostgreSQL (Npgsql) | PL/SQL ![Static Badge](https://img.shields.io/badge/c%23)
 
-**⚙️ Infrastructure & Security**
+** Infrastructure & Security**
 JWT Bearer Authentication | Middleware | Action Filters | Extension Methods
 
-**📦 Generics & Helpers**
+** Generics & Helpers**
 `BaseResponse<T>` | Generic Helpers
 
 **Documentation**
