@@ -1,24 +1,33 @@
 ##  Hello everyone!
-
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=5F1448&background=FFFFFF00&center=true&width=435&lines=I'm+Quasar%2C+Backend+developer+.Net)](https://git.io/typing-svg)
 ### 🛠️ Tech Stack & Skills
 **Framework & Core**
-
 `.NET 9` | `ASP.NET Core Web API` | `Entity Framework Core`
 
 ### **Architecture & Patterns**
 `CQRS(lite-full)` | `MediatR` | `SOLID` | `YAGNI` |
 
 ### **Data & Database**
-`LINQ` | `PostgreSQL (Npgsql)` | `PL/SQL` | `Redis`
+![MySQL](https://img.shields.io/badge/mysql-%234479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+`LINQ` 
+  `PostgreSQL (Npgsql)` 
+    `PL/SQL` 
+       `Redis`
 
 ### **Infrastructure & Security**
-`JWT Bearer Authentication` | `Middleware` | `Action Filters` | `Extension Methods`
+`JWT Bearer Authentication`
+`Middleware` 
+`Action Filters` 
+`Extension Methods` 
 
 ### **Generics & Helpers**
-`BaseResponse<T>` | `Generic Helpers`
+`BaseResponse<T>` 
+`Generic Helpers`
 
 ### **Documentation**
-`Swagger` / `OpenAPI`
+`Swagger`
+`OpenAPI`
 
 ### **DevOps**
-`Docker` [https://camo.githubusercontent.com/80c04c63635a69a219dd1c1b08f13397c03a2b08e7643417e5eb99e28dc7b6a5/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d446f636b65722d3436613266313f7374796c653d666c61742d737175617265266c6f676f3d646f636b6572266c6f676f436f6c6f723d7768697465] | `Containerization`
+`Docker`
+`Containerization`
