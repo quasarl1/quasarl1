@@ -4,21 +4,20 @@
 **Framework & Core**
 .NET 9 | ASP.NET Core Web API | Entity Framework Core
 
-**Architecture & Patterns**
+### **Architecture & Patterns**
 CQRS | MediatR | SOLID | KISS | YAGNI
 
-**Data & Database**
+### **Data & Database**
 LINQ | PostgreSQL (Npgsql) | PL/SQL ![Static Badge](https://img.shields.io/badge/c%23)
 
-** Infrastructure & Security**
+### **Infrastructure & Security**
 JWT Bearer Authentication | Middleware | Action Filters | Extension Methods
 
-** Generics & Helpers**
+### **Generics & Helpers**
 `BaseResponse<T>` | Generic Helpers
 
-**Documentation**
+### **Documentation**
 Swagger / OpenAPI
 
-**DevOps**
+### **DevOps**
 Docker | Containerization
-![Snake animation](https://github.com/quasarl1/quasarl1/blob/main/dist/ocean.gif)
